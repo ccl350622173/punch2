@@ -1,1 +1,1 @@
-streamlit run forntend1.py
+streamlit run frontend1.py
